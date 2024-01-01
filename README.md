@@ -1,4 +1,4 @@
-# README: Medical Data Extraction Pipeline
+# Medical Data Extraction Pipeline
 
 ## Overview
 
@@ -56,5 +56,10 @@ A comprehensive solution that integrates Azure Machine Learning Services (LLMS) 
 ## Note
 
 - Ensure that you have the necessary permissions and configurations in your Azure environment to use Azure ML services and Azure Blob Storage.
+
+  ## Architecture Diagram
+
+  ![image](https://github.com/jashshah-dev/Large-Language-Models-for-Medical-Data-Extraction/assets/132673402/de37b94e-19b2-4f31-a0e3-47c7c804f1bb)
+
 
 
